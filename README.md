@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # user-management
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
@@ -66,3 +67,6 @@ If you want to learn more about building native executables, please consult <htt
 Easily start your REST Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
+=======
+# user-management
+>>>>>>> 60b6054fe79614eb25d85e8086cf8d14d0cff3b5
